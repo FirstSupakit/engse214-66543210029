@@ -1,0 +1,24 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "name": "FF",
+      "text": "สวัสดีครับผม"
+    },
+    {
+      "id": "dc7d",
+      "name": "<script>alert('XSS')</script>",
+      "text": "<script>alert('XSS')</script>"
+    },
+    {
+      "id": "78ad",
+      "name": "JIN",
+      "text": "ss"
+    },
+    {
+      "id": "6ce1",
+      "name": "asd",
+      "text": "ddd"
+    }
+  ]
+}
